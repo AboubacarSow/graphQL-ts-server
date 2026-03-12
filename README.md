@@ -1,7 +1,3 @@
-Here is your updated and more complete **README.md**, reflecting full CRUD support and improving clarity + professionalism:
-
----
-
 # GraphQL TypeScript Server
 
 A fully functional **GraphQL API server** built with Apollo Server, Express, and TypeScript for managing car data with complete CRUD operations.
